@@ -1,0 +1,23 @@
+name: everton
+favicon: null
+layout_spectrum: 0.05932407500222325
+typography_spectrum: 0.7225821695756167
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.5927350290585309
+  lightness: 0.26549890311434865
+  saturation: 0.9624145259149373
+  rhythmicContrast: 0.39592376933433115
+purpose: []
