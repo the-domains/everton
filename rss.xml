@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[everton]]></title>
         <description><![CDATA[everton]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/everton/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Dec 2015 20:22:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 14 Dec 2015 20:43:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/everton/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Solaris (novel)]]></title>
+            <description><![CDATA[<article><h1>Solaris (novel)</h1><p>Solaris is a 1961 Polish philosophical science fiction novel by Stanisław Lem. The book centers upon the themes of the nature of human memory, experience and the ultimate inadequacy of communication between human and non-human species.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c8b2662404b16d1e7164ffee59424296e8409005.jpg"></article>]]></description>
+            <link>https://en.wikipedia.org/wiki/Solaris_(novel)</link>
+            <guid isPermaLink="false">b85fcc51-3740-4149-a545-7118e3ab0b5c</guid>
+            <pubDate>Mon, 14 Dec 2015 20:43:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Pattern Recognition (novel)]]></title>
-            <description><![CDATA[<article><h1>Pattern Recognition (novel)</h1><p>Pattern Recognition is a novel by science fiction writer William Gibson published in 2003. Set in August and September 2002, the story follows Cayce Pollard, a 32-year-old marketing consultant who has a psychological sensitivity to corporate symbols.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1be852d0c2dc96338c66a8ff62dff6bfbe65253e.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Pattern Recognition (novel)</h1><p>Pattern Recognition is a novel by science fiction writer William Gibson published in 2003. Set in August and September 2002, the story follows Cayce Pollard, a 32-year-old marketing consultant who has a psychological sensitivity to corporate symbols.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4f4d82be09a743b535eb45c70ebb694afda9f4ae.jpg"></article>]]></description>
             <link>https://en.wikipedia.org/wiki/Pattern_Recognition_(novel)</link>
             <guid isPermaLink="false">423e58fe-fee3-42da-a49c-bd77b2b61c87</guid>
             <pubDate>Mon, 14 Dec 2015 20:22:41 GMT</pubDate>
